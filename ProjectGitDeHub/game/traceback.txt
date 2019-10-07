@@ -1,0 +1,18 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+Before loading the script.
+WindowsError: [Error 267] The directory name is invalid: u'C:\\Users\\halok\\Documents\\GitHub\\NovelofVisuals\\ProjectGitDeHub\\game\\gui.rpyc\\*.*'
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "C:\Users\halok\Downloads\renpy-7.3.2-sdk\renpy\bootstrap.py", line 314, in bootstrap
+    renpy.main.main()
+  File "C:\Users\halok\Downloads\renpy-7.3.2-sdk\renpy\main.py", line 292, in main
+    for fn in os.listdir(dir):
+WindowsError: [Error 267] The directory name is invalid: u'C:\\Users\\halok\\Documents\\GitHub\\NovelofVisuals\\ProjectGitDeHub\\game\\gui.rpyc\\*.*'
+
+Windows-8-6.2.9200
+Ren'Py 7.3.2.320
+ 
+Sun Oct 06 22:13:33 2019
